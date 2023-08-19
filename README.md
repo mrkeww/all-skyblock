@@ -67,7 +67,7 @@ This list contains useful mods that are not on Modrinth and thus cannot be inclu
 
 - OptiFine: Download from [optifine.net](https://optifine.net).
 
-    [OptiFine 1.8.9 HD U L5](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar) works best
+    [OptiFine 1.8.9 HD U L5](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar) works the best!
 
 ## Acknowledgments
 
