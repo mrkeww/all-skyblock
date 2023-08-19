@@ -19,37 +19,47 @@ This Project is Powered By:
 
 _Disclaimer: Some mods are still WIP._
 
-- ## 🚀 **ChatTriggers:**
+
+- ## 🚀 **ChatTriggers**
 
     A powerful and dynamic scripting platform for Minecraft based on the idea of flexibility and personalization.
 
-- ## 🌟 **Danker's Skyblock:**
+- ## 🌟 **Danker's Skyblock**
 
     QOL changes that enhance your Hypixel Skyblock experience.
 
-- ## 🗺️ **Dungeons Guide:**
+- ## 🗺️ **Dungeons Guild**
 
     A mod designed to help Hypixel Skyblock Dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features.
 
-- ## ✨ **NotEnoughUpdates:**
+- ## ✨ **NotEnoughUpdates**
 
     NotEnoughUpdates is a mod by Moulberry. Starting as a simple recipe viewer, the mod has expanded to include a number of unique features for SkyBlock.
 
-- ## 🛡️ **Patcher:**
+- ## 🛡️ **Patcher**
 
     Patcher is a Forge mod for 1.8.9 & 1.12.2 created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes.
 
-- ## 📜 **Scrollable Tooltips:**
+- ## 📜 **Scrollable Tooltips**
 
     Scrollable Tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip doesn't fit on the screen.
 
-- ## ⚙️ **Skyblock Addons:**
+- ## ⚙️ **Skyblock Addons**
 
     A Minecraft Forge mod with many features to make your Hypixel Skyblock experience better.
 
-- ## 🛠️ **SoopyV2Forge:**
+- ## 🛠️ **SoopyV2Forge**
 
     The best chattriggers module!
+
+- ## 📱 **Apec**
+
+    This mod changes the Gui of the game to be more suited for Hypixel Skyblock.
+    The Gui interface is toggable by pressing right cntrl.
+
+- ## 🐄 **Cowlection**
+
+    A client-side only Forge mod that contains a collection of features.
 
 ## Additional Mod mentions
 
