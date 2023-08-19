@@ -1,0 +1,72 @@
+# All Skyblock 🌌
+
+![Minecraft Badge](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge)![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=for-the-badge)
+
+**All Skyblock** is a Hypixel SkyBlock™ Modpack for Me and My Friends! ^-^
+
+This Project is Powered By:
+
+<!-- Some html spaghetti -->
+<a style="visibility: hidden; text-decoration: inherit;" href="https://github.com/jh-devv/mc-modpack-kit">
+<picture style="visibility: visible">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/55e900a0-6de4-49e7-a9b0-2a8c764c9a4a">
+  <img alt="Logo">
+</picture>
+</a>
+
+## Features
+
+_Disclaimer: Some mods are still WIP._
+
+- ## 🚀 **ChatTriggers:**
+
+    A powerful and dynamic scripting platform for Minecraft based on the idea of flexibility and personalization.
+
+- ## 🌟 **Danker's Skyblock:**
+
+    QOL changes that enhance your Hypixel Skyblock experience.
+
+- ## 🗺️ **Dungeons Guide:**
+
+    A mod designed to help Hypixel Skyblock Dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features.
+
+- ## ✨ **NotEnoughUpdates:**
+
+    NotEnoughUpdates is a mod by Moulberry. Starting as a simple recipe viewer, the mod has expanded to include a number of unique features for SkyBlock.
+
+- ## 🛡️ **Patcher:**
+
+    Patcher is a Forge mod for 1.8.9 & 1.12.2 created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes.
+
+- ## 📜 **Scrollable Tooltips:**
+
+    Scrollable Tooltips allows you to scroll up/down (mouse wheel) or left/right (mouse wheel + shift) when an item's tooltip doesn't fit on the screen.
+
+- ## ⚙️ **Skyblock Addons:**
+
+    A Minecraft Forge mod with many features to make your Hypixel Skyblock experience better.
+
+- ## 🛠️ **SoopyV2Forge:**
+
+    The best chattriggers module!
+
+## Additional Mod mentions
+
+This list contains useful mods that are not on Modrinth and thus cannot be included:
+
+- OptiFine: Download from [optifine.net](https://optifine.net).
+
+    [OptiFine 1.8.9 HD U L5](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar) works best
+
+## Acknowledgments
+
+- This project utilizes various GitHub Actions and tools for automating the modpack release process from the mc-modpack-kit project.
+- Big thanks ❤️ for [mrkeww](https://github.com/mrkeww) for recomending mods!
+- Special thanks to the GitHub community for their contributions and support.
+
+---
+
+<!---For detailed usage instructions and customization options, please refer to the [documentation](https://github.com/yourusername/mc-modpack-kit/wiki).-->
+
+Feel free to contribute, open issues, or suggest improvements! 🚀
