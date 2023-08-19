@@ -1,0 +1,13 @@
+name = "All Skyblock"
+author = "jhdevv/mrkeww"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "242fd488637aee56d9ddbebdc4b663bb088eb5ec7c8023ab24449f06d4d67bb1"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"

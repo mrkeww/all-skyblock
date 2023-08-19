@@ -1,0 +1,7 @@
+name = "dankersskyblock"
+filename = "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar"
+
+[download]
+url = "https://github.com/bowser0000/SkyblockMod/releases/download/v2.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar"
+hash-format = "sha256"
+hash = "905819c9c65d4bebb64133e428de2ed2b4f0097475d014bee037a96ae65a7921"

@@ -1,0 +1,7 @@
+name = "SoopyV2Forge"
+filename = "soopyv2forge-1.1.jar"
+
+[download]
+url = "https://github.com/Soopyboo32/SoopyV2Forge/releases/download/1.1/soopyv2forge-1.1.jar"
+hash-format = "sha256"
+hash = "9623d49290b41f9d271bc3c53a69a48e77eda323614e92fc73ba288ff3a648f3"

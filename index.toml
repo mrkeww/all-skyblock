@@ -1,0 +1,70 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".github/semantic.yml"
+hash = "220f1ba1ceb11a4e0fcf2690e7c9938cffdd4c0ad8ad59b843192627df1f2002"
+
+[[files]]
+file = ".github/workflows/build.yml"
+hash = "3970aabc94367ef3a57e4344a83bb05a53fea4a20db454683b4879b573220e8b"
+
+[[files]]
+file = ".github/workflows/pipeline.yml"
+hash = "e2a8e168814e6d5b3cac5956302a7723a344e041d7f1c1b57d691a6924602e53"
+
+[[files]]
+file = ".github/workflows/publish.yml"
+hash = "9f29ac95c4ad86d800f820c11917ab9c3bf53e56f58590a966bcb9d5168a2560"
+
+[[files]]
+file = ".github/workflows/update.yml"
+hash = "f02b95c326c42338ac86329f1fb6eba8e0be66dab9d41fc24e5f337396823b22"
+
+[[files]]
+file = "LICENSE"
+hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+
+[[files]]
+file = "mods/ctjs.pw.toml"
+hash = "d2c841ccd54b465ed41de90911069d600315cfcafae1896add8546dbce9ee5bc"
+metafile = true
+
+[[files]]
+file = "mods/dankersskyblock.pw.toml"
+hash = "f400bc55c6fadd0b9acab914f9bcfa4a50260482d4f422d3083a792d41482d5b"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsguide.pw.toml"
+hash = "7f3e608d4dc0807c15e6e92295f57064a978b6943d523c978d4622f372aefcbf"
+metafile = true
+
+[[files]]
+file = "mods/neu.pw.toml"
+hash = "ac0ac7a9c191b13ef52629502947e56b9c72c4f894712cc9b4a2ac13327dfe8b"
+metafile = true
+
+[[files]]
+file = "mods/patcher.pw.toml"
+hash = "548dc0e40148d601b134885e61dfaa5eb8a846661c81ab88ecd3c51f5da8f658"
+metafile = true
+
+[[files]]
+file = "mods/scrollabletooltips.pw.toml"
+hash = "d2ef9ae7d46c45416d924f85766d0fd2a66dff0b351b67a946e4f92999cec0d9"
+metafile = true
+
+[[files]]
+file = "mods/skyblockaddons.pw.toml"
+hash = "48c91f519e7bfe98a5ad181fd7a2a1f2ac3fe9e4e0f3142c899d6a3c18574906"
+metafile = true
+
+[[files]]
+file = "mods/skytils.pw.toml"
+hash = "7eadb2111407b95d0a522a8912c33312111f32d5edc2b95dec843c85b1721c92"
+metafile = true
+
+[[files]]
+file = "mods/soopyv2forge.pw.toml"
+hash = "db2411918e6185b1739acb97c5556c570de9d430a9f33177a7c01ab7babd6128"
+metafile = true
