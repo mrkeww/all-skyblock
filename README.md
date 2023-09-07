@@ -28,7 +28,7 @@ _Disclaimer: Some mods are still WIP._
 
     QOL changes that enhance your Hypixel Skyblock experience.
 
-- ## 🗺️ **Dungeons Guild**
+- ## 🗺️ **Dungeons Guide**
 
     A mod designed to help Hypixel Skyblock Dungeons players find secrets and solve puzzles. Also comes with lots of QOL Features.
 
