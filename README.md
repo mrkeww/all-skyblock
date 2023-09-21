@@ -2,7 +2,7 @@
 
 ![Minecraft Badge](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge)![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=for-the-badge)
 
-**All Skyblock** is a Hypixel SkyBlock™ Modpack for Me and My Friends! ^-^
+**All Skyblock** is a Hypixel SkyBlock™ Modpack that has the best utility mods for skyblock all in one pack!
 
 This Project is Powered By:
 
