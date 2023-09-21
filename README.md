@@ -72,7 +72,6 @@ This list contains useful mods that are not on Modrinth and thus cannot be inclu
 ## Acknowledgments
 
 - This project utilizes various GitHub Actions and tools for automating the modpack release process from the mc-modpack-kit project.
-- Big thanks ❤️ for [mrkeww](https://github.com/mrkeww) for recommending mods!
 - Special thanks to the GitHub community for their contributions and support.
 
 ---
