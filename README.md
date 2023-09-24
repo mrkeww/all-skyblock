@@ -78,4 +78,5 @@ This list contains useful mods that are not on Modrinth and thus cannot be inclu
 
 <!---For detailed usage instructions and customization options, please refer to the [documentation](https://github.com/yourusername/mc-modpack-kit/wiki).-->
 
+Made with ❤️ by [mrkeww](https://github.com/mrkeww) 
 Feel free to contribute, open issues, or suggest improvements! 🚀
