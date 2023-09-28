@@ -4,6 +4,8 @@
 
 **All Skyblock** is a Hypixel SkyBlock™ Modpack that has the best utility mods for skyblock all in one pack!
 
+It is recommended to download the latest release!
+
 This Project is Powered By:
 
 <!-- Some html spaghetti -->
