@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/mrkeww/all-skyblock/compare/v1.0.7...v1.0.8) (2023-10-09)
+
+
+### Bug Fixes
+
+* Update build.yml ([b4e0a80](https://github.com/mrkeww/all-skyblock/commit/b4e0a80ad6a6ed68e610072a75260671ee5c5b4c))
+
 ## [1.0.7](https://github.com/mrkeww/all-skyblock/compare/v1.0.6...v1.0.7) (2023-10-09)
 
 
