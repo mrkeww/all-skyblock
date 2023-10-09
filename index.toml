@@ -78,3 +78,8 @@ metafile = true
 file = "mods/soopyv2forge.pw.toml"
 hash = "db2411918e6185b1739acb97c5556c570de9d430a9f33177a7c01ab7babd6128"
 metafile = true
+
+[[files]]
+file = "mods/dungeonsGuideBeta8.1notStandalone.pw.toml
+hash = "45217da4d842e0646580d04a65d6cb1397de3466fe9a558021ae54424583a860"
+metafile = true
