@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/mrkeww/all-skyblock/compare/v1.0.2...v1.0.3) (2023-10-09)
+
+
+### Bug Fixes
+
+* Create dungeonsGuideBeta8.1notStandalone ([0c0aa77](https://github.com/mrkeww/all-skyblock/commit/0c0aa77e7b044c5bc5b27807bc22719b1197583d))
+* Update README.md line 18 ([5080668](https://github.com/mrkeww/all-skyblock/commit/5080668120307d049ece1def32b7da6cb42292c5))
+
 ## [1.0.2](https://github.com/mrkeww/all-skyblock/compare/v1.0.1...v1.0.2) (2023-09-21)
 
 
