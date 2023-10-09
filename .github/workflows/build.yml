@@ -52,7 +52,6 @@ jobs:
       - name: Build Modrinth Modpack
         if: inputs.build-modrinth == 'true'
         run: |
-          packwiz refresh
           packwiz modrinth export
 
       - name: Build Curseforge Modpack
