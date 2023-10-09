@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/mrkeww/all-skyblock/compare/v1.0.4...v1.0.5) (2023-10-09)
+
+
+### Bug Fixes
+
+* Update index.toml ([803a473](https://github.com/mrkeww/all-skyblock/commit/803a4730284718fa475f368bd2691eeedd126143))
+* Update update.yml ([e779b31](https://github.com/mrkeww/all-skyblock/commit/e779b311d554cfb29ade99b12a273a12b88c626d))
+
 ## [1.0.4](https://github.com/mrkeww/all-skyblock/compare/v1.0.3...v1.0.4) (2023-10-09)
 
 
