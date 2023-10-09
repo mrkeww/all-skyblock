@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.7](https://github.com/mrkeww/all-skyblock/compare/v1.0.6...v1.0.7) (2023-10-09)
+
+
+### Bug Fixes
+
+* Update and rename dungeonsGuideBeta8.1notStandalone.pw.toml to dungeonsguidebeta8.1notstandalone.pw.toml ([831cfb5](https://github.com/mrkeww/all-skyblock/commit/831cfb5365acd09d59966c58030c32ae844c26ed))
+* Update build.yml ([941ce21](https://github.com/mrkeww/all-skyblock/commit/941ce210afe0b9bdca4078cd012cd3e89fcc8857))
+* Update update.yml ([8ab0f26](https://github.com/mrkeww/all-skyblock/commit/8ab0f26c243f87454817bb1c29c53b1061fb6e00))
+
 ## [1.0.6](https://github.com/mrkeww/all-skyblock/compare/v1.0.5...v1.0.6) (2023-10-09)
 
 
