@@ -1,7 +1,0 @@
-name = "dungeonsguidebeta8.1notstandalone"
-filename = "dungeonsguide-4.0.0-beta8.1-mapped.jar"
-
-[download]
-url = "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.1/dungeonsguide-4.0.0-beta8.1-mapped.jar"
-hash-format = "sha256"
-hash = "45217da4d842e0646580d04a65d6cb1397de3466fe9a558021ae54424583a860"
