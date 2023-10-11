@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.10](https://github.com/mrkeww/all-skyblock/compare/v1.0.9...v1.0.10) (2023-10-11)
+
+
+### Bug Fixes
+
+* Updated skytils from version 1.7.6 to 1.7.7 ([19f53aa](https://github.com/mrkeww/all-skyblock/commit/19f53aac4412b01e1a93d2ba6cc3749cecf465d5))
+
 ## [1.0.9](https://github.com/mrkeww/all-skyblock/compare/v1.0.8...v1.0.9) (2023-10-09)
 
 
