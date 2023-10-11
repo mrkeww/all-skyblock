@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.11](https://github.com/mrkeww/all-skyblock/compare/v1.0.10...v1.0.11) (2023-10-11)
+
+
+### Bug Fixes
+
+* Delete mods/dungeonsguidebeta8.1notstandalone.pw.toml ([74dfe71](https://github.com/mrkeww/all-skyblock/commit/74dfe713fee443be86a8fb0b34bd3ace29974a8e))
+* Update dungeonsguide.pw.toml ([b917357](https://github.com/mrkeww/all-skyblock/commit/b917357f752a9dde3169612431cdf9a073fc01b4))
+* Update index.toml ([d78cf1f](https://github.com/mrkeww/all-skyblock/commit/d78cf1f339cad8ca0096599ba923ec1a728b7dc3))
+
 ## [1.0.10](https://github.com/mrkeww/all-skyblock/compare/v1.0.9...v1.0.10) (2023-10-11)
 
 
