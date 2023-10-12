@@ -6,6 +6,8 @@
 
 It is recommended to download the latest release!
 
+Please consider giving the project a star/follow if you like it
+
 This Project is Powered By:
 
 <!-- Some html spaghetti -->
