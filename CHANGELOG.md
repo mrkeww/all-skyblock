@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/mrkeww/all-skyblock/compare/v1.0.11...v1.1.0) (2023-10-15)
+
+
+### Features
+
+* Update dungeonsguide.pw.toml ([4e81a65](https://github.com/mrkeww/all-skyblock/commit/4e81a65e427af0d0f9f5ad89ee183db26117f51f))
+
+
+### Bug Fixes
+
+* Update README.md ([63ffd68](https://github.com/mrkeww/all-skyblock/commit/63ffd689908dd34209441ac61ccbe3bcbac3209f))
+
 ## [1.0.11](https://github.com/mrkeww/all-skyblock/compare/v1.0.10...v1.0.11) (2023-10-11)
 
 
