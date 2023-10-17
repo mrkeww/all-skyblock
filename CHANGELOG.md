@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/mrkeww/all-skyblock/compare/v1.1.0...v1.2.0) (2023-10-17)
+
+
+### Features
+
+* Updated Skytils to version 1.7.8 ([1bd4d69](https://github.com/mrkeww/all-skyblock/commit/1bd4d6936bb0bc9a77c31a454916a12f43412b57))
+
 ## [1.1.0](https://github.com/mrkeww/all-skyblock/compare/v1.0.11...v1.1.0) (2023-10-15)
 
 
