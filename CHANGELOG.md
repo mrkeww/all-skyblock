@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/mrkeww/all-skyblock/compare/v1.2.0...v1.2.1) (2023-10-23)
+
+
+### Bug Fixes
+
+* Updated dungeonsguide to version 4.0.0beta8.3 ([bf7aef5](https://github.com/mrkeww/all-skyblock/commit/bf7aef5d4ee38ea2aa6d26e1e64bd6fc82b3d2d4))
+
 ## [1.2.0](https://github.com/mrkeww/all-skyblock/compare/v1.1.0...v1.2.0) (2023-10-17)
 
 
