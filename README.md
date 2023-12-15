@@ -8,17 +8,6 @@ It is recommended to download the latest release!
 
 Please consider giving the project a star/follow if you like it
 
-This Project is Powered By:
-
-<!-- Some html spaghetti -->
-<a style="visibility: hidden; text-decoration: inherit;" href="https://github.com/jh-devv/mc-modpack-kit">
-<picture style="visibility: visible">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de">
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/55e900a0-6de4-49e7-a9b0-2a8c764c9a4a">
-  <img alt="Logo">
-</picture>
-</a>
-
 ## Features
 
 _Disclaimer: Some mods are still WIP._
