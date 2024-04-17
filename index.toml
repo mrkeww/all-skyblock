@@ -6,32 +6,36 @@ hash = "220f1ba1ceb11a4e0fcf2690e7c9938cffdd4c0ad8ad59b843192627df1f2002"
 
 [[files]]
 file = ".github/workflows/build.yml"
-hash = "3970aabc94367ef3a57e4344a83bb05a53fea4a20db454683b4879b573220e8b"
+hash = "b9f91ab3face135727b37ae3b72b741957664dcf72b7f23750f27e1fe4a501b6"
 
 [[files]]
 file = ".github/workflows/pipeline.yml"
-hash = "e2a8e168814e6d5b3cac5956302a7723a344e041d7f1c1b57d691a6924602e53"
+hash = "b1ee3919c6e71ea3196c67f2ce7923c682f25e19c59157dbb86a1835a3a8c935"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "9f29ac95c4ad86d800f820c11917ab9c3bf53e56f58590a966bcb9d5168a2560"
+hash = "957d5ed26da7070138de2b66aa14dc44200aa57baefa8453838e05a22d0f6de8"
 
 [[files]]
 file = ".github/workflows/update.yml"
-hash = "f02b95c326c42338ac86329f1fb6eba8e0be66dab9d41fc24e5f337396823b22"
+hash = "b0843a5560f8213adf6c8e0001b393cd55780d5ad0f702b1d4ae7aff7a0276dc"
+
+[[files]]
+file = "CHANGELOG.md"
+hash = "f411c2bca5b57d25568495890babe94f254aaa3b134603ec6ef379d0b4b6dc5b"
 
 [[files]]
 file = "LICENSE"
-hash = "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
 file = "mods/apec.pw.toml"
-hash = "6e418ef256c35fc21aeb2d1077f080d27232c25ef05cd0901891a2b76551c78a"
+hash = "ef52a444013b9b630d623c140caa7f4253987a112acaee67a481ab2b109d76fe"
 metafile = true
 
 [[files]]
 file = "mods/cowlection.pw.toml"
-hash = "076664ef055edf13d425a3b4713cb8bee97ca22117233352d35b89fd605a0574"
+hash = "f41a8baa98abf51353986913e3b03e0f84a07aa45763d107ede016db18c93b71"
 metafile = true
 
 [[files]]
@@ -41,12 +45,12 @@ metafile = true
 
 [[files]]
 file = "mods/dankersskyblock.pw.toml"
-hash = "f400bc55c6fadd0b9acab914f9bcfa4a50260482d4f422d3083a792d41482d5b"
+hash = "3edbfc3ca63afbbbaab0936805667bb4996e4a4ca28cd8b0188d17af2539c532"
 metafile = true
 
 [[files]]
 file = "mods/dungeonsguide.pw.toml"
-hash = "7f3e608d4dc0807c15e6e92295f57064a978b6943d523c978d4622f372aefcbf"
+hash = "9a75f5d40f22bdce86996505e1a1a96c89db0d9ed989f081cf90145ca790ebf8"
 metafile = true
 
 [[files]]
@@ -71,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "7eadb2111407b95d0a522a8912c33312111f32d5edc2b95dec843c85b1721c92"
+hash = "9dd36c5a6af6d180b992563f41e59b9afce7f97281cfbbff33c94e37446a5d92"
 metafile = true
 
 [[files]]

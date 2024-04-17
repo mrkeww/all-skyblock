@@ -2,6 +2,6 @@ name = "dungeonsGuideLoader"
 filename = "dungeonsguide-4.0.0-beta9.2-standalone.jar"
 
 [download]
-url = "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta9.2/dungeonsguide-4.0.0-beta9.2-standalone.jar"
+url = "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/v4.0.0-beta9.4/dungeonsguide-4.0.0-beta9.4-standalone.jar"
 hash-format = "sha256"
-hash = "a86542eb4e31f0b1d23da920316b199a4d092bd916505fb2b2b5e0c70b7db7c3"
+hash = "3b72f77cfdeeb5e41f273349f2b819e647b3e821b7696cc84371e1f023f2f77f"
