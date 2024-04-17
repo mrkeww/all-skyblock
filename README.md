@@ -62,11 +62,6 @@ This list contains useful mods that are not on Modrinth and thus cannot be inclu
 
     [OptiFine 1.8.9 HD U L5](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar) works the best!
 
-## Acknowledgments
-
-- This project utilizes various GitHub Actions and tools for automating the modpack release process from the mc-modpack-kit project.
-- Special thanks to the GitHub community for their contributions and support.
-
 ---
 
 <!---For detailed usage instructions and customization options, please refer to the [documentation](https://github.com/yourusername/mc-modpack-kit/wiki).-->
