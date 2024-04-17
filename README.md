@@ -1,4 +1,4 @@
-# All Skyblock <img src="https://github.com/jh-devv/all-skyblock/assets/122896463/ce3fed5b-b906-4c37-a932-b0628bd61a30" style="position:relative;top:0.173em;height:1em;">
+# All Skyblock <img src="https://cdn.modrinth.com/data/HMm5nRel/c990dc143b3c41b7933eb6fc9da0bbaafa3c355e.png">
 
 ![Minecraft Badge](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge)![Modrinth Badge](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=fff&style=for-the-badge)
 
