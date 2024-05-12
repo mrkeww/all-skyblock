@@ -5,22 +5,6 @@ file = ".github/semantic.yml"
 hash = "220f1ba1ceb11a4e0fcf2690e7c9938cffdd4c0ad8ad59b843192627df1f2002"
 
 [[files]]
-file = ".github/workflows/build.yml"
-hash = "b9f91ab3face135727b37ae3b72b741957664dcf72b7f23750f27e1fe4a501b6"
-
-[[files]]
-file = ".github/workflows/pipeline.yml"
-hash = "b1ee3919c6e71ea3196c67f2ce7923c682f25e19c59157dbb86a1835a3a8c935"
-
-[[files]]
-file = ".github/workflows/publish.yml"
-hash = "957d5ed26da7070138de2b66aa14dc44200aa57baefa8453838e05a22d0f6de8"
-
-[[files]]
-file = ".github/workflows/update.yml"
-hash = "b0843a5560f8213adf6c8e0001b393cd55780d5ad0f702b1d4ae7aff7a0276dc"
-
-[[files]]
 file = "CHANGELOG.md"
 hash = "f411c2bca5b57d25568495890babe94f254aaa3b134603ec6ef379d0b4b6dc5b"
 
@@ -49,8 +33,8 @@ hash = "3edbfc3ca63afbbbaab0936805667bb4996e4a4ca28cd8b0188d17af2539c532"
 metafile = true
 
 [[files]]
-file = "mods/dungeonsguide.pw.toml"
-hash = "9a75f5d40f22bdce86996505e1a1a96c89db0d9ed989f081cf90145ca790ebf8"
+file = "mods/dungeons-guide.pw.toml"
+hash = "220d9fbdac9d3f294a0f48b949745a18d5091bc6cc4e8ba7cf909ee1e7268b22"
 metafile = true
 
 [[files]]
@@ -75,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "9dd36c5a6af6d180b992563f41e59b9afce7f97281cfbbff33c94e37446a5d92"
+hash = "98174294b2fb6536ec83d4f165dcc7c1f9d833dff78246958a7ccd7218355428"
 metafile = true
 
 [[files]]
