@@ -1,0 +1,13 @@
+name = "Dungeons Guide"
+filename = "dungeonsguide-4.0.0-beta9.5-standalone.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nU0bz6EH/versions/2Ll2xE65/dungeonsguide-4.0.0-beta9.5-standalone.jar"
+hash-format = "sha1"
+hash = "6c28ff4e9088ed00ced0d32eb462ad284bbd6f90"
+
+[update]
+[update.modrinth]
+mod-id = "nU0bz6EH"
+version = "2Ll2xE65"
