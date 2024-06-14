@@ -1,7 +1,0 @@
-name = "NEU"
-filename = "NotEnoughUpdates-2.1.jar"
-
-[download]
-url = "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.1.0/NotEnoughUpdates-2.1.jar"
-hash-format = "sha256"
-hash = "5fb302b3e6462fa96565080ddcc0b76ff480230727962b8eadc9df729c01e100"

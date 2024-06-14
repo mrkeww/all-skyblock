@@ -18,18 +18,18 @@ hash = "ef52a444013b9b630d623c140caa7f4253987a112acaee67a481ab2b109d76fe"
 metafile = true
 
 [[files]]
+file = "mods/chattriggers.pw.toml"
+hash = "2837287f1eef8feada6dbaf572480aa8927ade2be8fcf61bb081085c54ef8304"
+metafile = true
+
+[[files]]
 file = "mods/cowlection.pw.toml"
 hash = "f41a8baa98abf51353986913e3b03e0f84a07aa45763d107ede016db18c93b71"
 metafile = true
 
 [[files]]
-file = "mods/ctjs.pw.toml"
-hash = "d2c841ccd54b465ed41de90911069d600315cfcafae1896add8546dbce9ee5bc"
-metafile = true
-
-[[files]]
-file = "mods/dankersskyblock.pw.toml"
-hash = "3edbfc3ca63afbbbaab0936805667bb4996e4a4ca28cd8b0188d17af2539c532"
+file = "mods/dankers-skyblock-mod.pw.toml"
+hash = "a475d3dbfa3c2fa152c7f0254eb3f7bc7646cd625c8ed24f23b5a3eb4aa36808"
 metafile = true
 
 [[files]]
@@ -38,8 +38,8 @@ hash = "220d9fbdac9d3f294a0f48b949745a18d5091bc6cc4e8ba7cf909ee1e7268b22"
 metafile = true
 
 [[files]]
-file = "mods/neu.pw.toml"
-hash = "ac0ac7a9c191b13ef52629502947e56b9c72c4f894712cc9b4a2ac13327dfe8b"
+file = "mods/notenoughupdates.pw.toml"
+hash = "bc596d0bd49317aba96993c1dd8b5ed359bb68771cdfe08692c429d92e782c9a"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "98174294b2fb6536ec83d4f165dcc7c1f9d833dff78246958a7ccd7218355428"
+hash = "428d7ee0d160505081c8ed6ada7aedab1426d493a34f49fda663522630a72fdd"
 metafile = true
 
 [[files]]
