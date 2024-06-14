@@ -1,0 +1,13 @@
+name = "Danker's Skyblock Mod"
+filename = "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzpBqSX9/versions/VFcyXm7F/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar"
+hash-format = "sha1"
+hash = "b12c99d447bf43245a2c84cb007c5acd61570c25"
+
+[update]
+[update.modrinth]
+mod-id = "QzpBqSX9"
+version = "VFcyXm7F"

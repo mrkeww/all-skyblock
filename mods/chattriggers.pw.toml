@@ -1,0 +1,13 @@
+name = "ChatTriggers"
+filename = "ctjs-2.2.0-1.8.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UiTVKucn/versions/xNSlYzXb/ctjs-2.2.0-1.8.9.jar"
+hash-format = "sha1"
+hash = "691cd64f30def1c5573e4ee67a7b9914700454ea"
+
+[update]
+[update.modrinth]
+mod-id = "UiTVKucn"
+version = "xNSlYzXb"
