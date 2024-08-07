@@ -4,7 +4,7 @@
 
 **All Skyblock** is a Hypixel SkyBlock™ Modpack that has the best utility mods for skyblock all in one pack!
 
-It is recommended to download the latest release! (older versions probably doesn't work)
+It is recommended to download the latest release! (older versions don't work)
 
 Info about use of optifine on the bottom of this page!
 
