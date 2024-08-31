@@ -14,7 +14,7 @@ hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
 file = "mods/apec.pw.toml"
-hash = "ef52a444013b9b630d623c140caa7f4253987a112acaee67a481ab2b109d76fe"
+hash = "35a9897b69e2a60e5f381e05868e5827661eb6f26379ef684ad9445b7c98daa1"
 metafile = true
 
 [[files]]
@@ -34,12 +34,12 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "220d9fbdac9d3f294a0f48b949745a18d5091bc6cc4e8ba7cf909ee1e7268b22"
+hash = "43df905e7ce07c4b0799433ae3e5e7756b02567559a00e13d4c6b4ab14a32baf"
 metafile = true
 
 [[files]]
 file = "mods/notenoughupdates.pw.toml"
-hash = "bc596d0bd49317aba96993c1dd8b5ed359bb68771cdfe08692c429d92e782c9a"
+hash = "71cbf47f9ac6a577309a52e03f963529401e8819892d7693d911a9122dfb4d0b"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "428d7ee0d160505081c8ed6ada7aedab1426d493a34f49fda663522630a72fdd"
+hash = "525ee6c47c3553ba8c6dd11f8c8e03b47b309cd92579a00f245d66409789b649"
 metafile = true
 
 [[files]]
