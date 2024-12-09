@@ -12,13 +12,13 @@ inputs:
     required: true
   upload-curse:
     description: "Should the Modpack Be Uploaded to CurseForge"
-    required: true
+    required: false
 
   MODRINTH_TOKEN:
-    required: false
+    required: true
     description: "Token used to uploading modpack to Modrinth"
   MODRINTH_ID:
-    required: false
+    required: true
     description: "ID used to uploading modpack to Modrinth"
   CURSEFORGE_TOKEN:
     required: false
