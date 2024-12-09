@@ -24,7 +24,7 @@ runs:
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
-        ref: 'mods'
+        ref: 'main'
 
     - name: Install nix
       uses: cachix/install-nix-action@v22
