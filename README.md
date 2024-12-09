@@ -71,6 +71,7 @@ Optifine does not allow it being downloaded as part of the modpack so here is a 
 <!---For detailed usage instructions and customization options, please refer to the [documentation](https://github.com/yourusername/mc-modpack-kit/wiki).-->
 
 Made with ❤️ by [mrkeww](https://github.com/mrkeww) 
+
 This project uses mc-modpack-kit
 
 Feel free to contribute, open issues, or suggest improvements! 🚀
