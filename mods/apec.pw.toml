@@ -1,13 +1,13 @@
 name = "Apec"
-filename = "Apec-1.8.9-forge-1.12.2.jar"
+filename = "Apec-1.8.9-forge-1.12.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "78102bfcecfce0ff5bd390a8f038dd2940e99115"
+hash = "0d178e2582cb00652df8b3103369fafc97e5b1fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5630491
+file-id = 5767029
 project-id = 393276

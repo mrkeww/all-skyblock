@@ -1,7 +1,7 @@
 name = "SkyBlockAddons"
-filename = "SkyblockAddons-1.7.2-for-MC-1.8.9.jar"
+filename = "SkyblockAddons-1.7.3-for-MC-1.8.9.jar"
 
 [download]
-url = "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.2/SkyblockAddons-1.7.2-for-MC-1.8.9.jar"
+url = "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.3/SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar"
 hash-format = "sha256"
-hash = "d78b8b7d8e11bf3dcfa6bc0e11ff5828ae160f5fa67de4bd344cbb7b91cf2fb4"
+hash = "fb2f7d36afa61ae84e13a685afc37cd6e47e983b5190a3195ad1784fa40d4f17"
