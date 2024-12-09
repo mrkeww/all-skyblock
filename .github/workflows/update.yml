@@ -73,7 +73,7 @@ jobs:
         run: nix develop --command packwiz update -a -y
 
       - name: Push the updated mod list via a Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
             commit-message: "update(${{ matrix.modpack }}): updated mods"
             title: 'update(${{ matrix.modpack }}): updated mods'
