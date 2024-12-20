@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.8](https://github.com/mrkeww/all-skyblock/compare/v1.3.7...v1.3.8) (2024-12-20)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.3.8 ([25ed614](https://github.com/mrkeww/all-skyblock/commit/25ed614db735041eea2fb5ef2efacd3b6cdf5292))
+
 ## 1.3.7 (2024-12-09)
 
 
