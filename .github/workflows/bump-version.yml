@@ -10,8 +10,8 @@ on:
         type: string
       modpack:
         description: 'Path to the modpack directory'
-        required: false
-        default: 'mods'
+        required: true
+        default: 'main/mods'
         type: string
   workflow_call:
     inputs:
