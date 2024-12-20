@@ -109,7 +109,7 @@ jobs:
 
 
       - name: Bump Version
-        uses: ./.github/actions/bump-pack/action.yml
+        uses: ./.github/actions/bump-pack
         with:
           release-tag: ${{ steps.version.outputs.match }}
           modpack: ${{ matrix.modpack }}
