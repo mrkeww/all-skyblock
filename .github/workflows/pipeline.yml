@@ -99,7 +99,7 @@ jobs:
         with:
           text: ${{ fromJson(steps.release-please.outputs.pr).title }}
           regex: '(?<=\s)(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?$'
-        if: ${{ steps.release-please.outputs.releases_created }}
+        if: ${{ steps.release-please.outputs.pr != '' }}
 
 
       - name: Check Out Git Repository
@@ -114,7 +114,7 @@ jobs:
           release-tag: ${{ steps.version.outputs.match }}
           modpack: ${{ matrix.modpack }}
           branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
-        if: ${{ steps.release-please.outputs.releases_created }}
+        if: ${{ steps.release-please.outputs.pr != '' }}
 
       - name: Get Latest tag
         id: tag
