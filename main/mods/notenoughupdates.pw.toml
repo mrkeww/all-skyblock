@@ -1,13 +1,13 @@
 name = "NotEnoughUpdates"
-filename = "NotEnoughUpdates-2.4.0.jar"
+filename = "NotEnoughUpdates-2.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GGamhqbw/versions/eQ2lKnVO/NotEnoughUpdates-2.4.0.jar"
+url = "https://cdn.modrinth.com/data/GGamhqbw/versions/ZvBZT3yV/NotEnoughUpdates-2.5.0.jar"
 hash-format = "sha1"
-hash = "c0df8e7b597644d422ff6c4cfc49b51e6b59b22b"
+hash = "8e7f8d2a8e6e7f5ec8097e5d45a46863f3e8719a"
 
 [update]
 [update.modrinth]
 mod-id = "GGamhqbw"
-version = "eQ2lKnVO"
+version = "ZvBZT3yV"
