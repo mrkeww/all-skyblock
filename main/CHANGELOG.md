@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.9](https://github.com/mrkeww/all-skyblock/compare/v1.3.8...v1.3.9) (2024-12-20)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.0 ([9a3c375](https://github.com/mrkeww/all-skyblock/commit/9a3c3754ffde100aa23c9d7ca5741b826f71f337))
+* **main:** release 1.3.9 ([b9fd178](https://github.com/mrkeww/all-skyblock/commit/b9fd1787ab2c6d350776f13a686dac4b4fcfe98f))
+
 ## [1.3.8](https://github.com/mrkeww/all-skyblock/compare/v1.3.7...v1.3.8) (2024-12-20)
 
 
