@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "e2ac1b00361ac49790b5e4fda77579228778b535cb8b5293884d5d807619d24d"
+hash = "87efea33f72d341d12fbf82bec272427db07f27061d5ef2ffe63cb013cb9fa4b"
 metafile = true
 
 [[files]]
