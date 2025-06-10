@@ -50,11 +50,12 @@ jobs:
           - name: Build modpack using packwiz
             run: |
               pwd
+              ls
               packwiz refresh
               packwiz mr export
               echo "::notice ::Modpack ${{ inputs.modpack }} has been exported as .mrpack"
             shell: bash
-            working-directory: ${{ inputs.modpack }}
+            working-directory: ./main
 
           - name: Get latest tag
             id: tag
