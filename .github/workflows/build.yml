@@ -3,12 +3,6 @@ on:
   workflow_dispatch:
   release: 
     types: [published]
-    inputs: 
-        modpack:
-          description: "Path to the modpack directory"
-          required: false
-          default: ./main
-
       
 jobs:
   Build-modpack:
@@ -49,8 +43,6 @@ jobs:
 
           - name: Build modpack using packwiz
             run: |
-              pwd
-              ls
               packwiz refresh
               packwiz mr export
               echo "::notice ::Modpack ${{ inputs.modpack }} has been exported as .mrpack"
@@ -62,6 +54,8 @@ jobs:
             uses: WyriHaximus/github-action-get-previous-tag@v1
 
           - name: Upload modpack to github releases
+            env:
+              GH_TOKEN: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
             run: |
               gh release upload ${{ steps.tag.outputs.tag }} *.mrpack \
                 --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
