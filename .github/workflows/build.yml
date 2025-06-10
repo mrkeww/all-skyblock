@@ -72,3 +72,5 @@ jobs:
             with: 
               modrinth-id: HMm5nRel
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+              modrinth-featured: true
+              files: "*.mrpack"
