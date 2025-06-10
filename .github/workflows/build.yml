@@ -1,0 +1,67 @@
+name: Build modpack
+on:
+  workflow_dispatch:
+  release: 
+    types: [published]
+    inputs: 
+        modpack:
+          description: "Path to the modpack directory"
+          required: false
+          default: 'main'
+
+      
+jobs:
+  Build-modpack:
+    runs-on: ubuntu-latest
+  
+    steps:
+    
+          - name: Check Out Git Repository
+            uses: actions/checkout@v4
+            with:
+              fetch-depth: 0
+              ref: 'main'
+
+          - name: Install gh (github cli)
+            run: |
+                type -p curl >/dev/null || sudo apt install curl -y
+                curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \
+                  sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+
+                sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+
+                echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] \
+                  https://cli.github.com/packages stable main" | \
+                  sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+
+                sudo apt update
+                sudo apt install gh -y
+
+
+          - name: Setup go
+            uses: actions/setup-go@v5
+        
+          - name: Install packwiz
+            run: go install github.com/packwiz/packwiz@latest
+
+          - name: Print go version
+            run: go version
+
+          - name: Build modpack using packwiz
+            run: |
+              packwiz refresh
+              packwiz mr export
+              echo "::notice ::Modpack ${{ inputs.modpack }} has been exported as .mrpack"
+            shell: bash
+            working-directory: ${{ inputs.modpack }}
+
+          - name: Get latest tag
+            id: tag
+            uses: WyriHaximus/github-action-get-previous-tag@v1
+
+          - name: Upload modpack to github releases
+            run: |
+              gh release upload ${{ steps.tag.outputs.tag }} *.mrpack \
+                --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
+                --clobber
+              echo "::notice ::Modpack has been uploaded to GitHub Releases as a .mrpack"
