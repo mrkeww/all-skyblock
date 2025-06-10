@@ -74,4 +74,5 @@ jobs:
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
               modrinth-featured: true
               files: "main/*.mrpack"
-              version: v1.4.1
+              loaders: forge
+              game-versions: 1.8.9
