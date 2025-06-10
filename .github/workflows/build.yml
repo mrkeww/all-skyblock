@@ -76,4 +76,3 @@ jobs:
               files: "main/*.mrpack"
               loaders: forge
               game-versions: 1.8.9
-              version: v1.4.1
