@@ -1,4 +1,4 @@
-name: Build modpack
+name: Build modpack and release to vendors
 on:
   workflow_dispatch:
   release: 
@@ -7,6 +7,8 @@ on:
 jobs:
   Build-modpack:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
   
     steps:
     
@@ -64,3 +66,11 @@ jobs:
               echo "::notice ::Modpack has been uploaded to GitHub Releases as a .mrpack"
             shell: bash
             working-directory: ./main
+
+          - name: Upload modpack to modrinth
+            uses: Kir-Antipov/mc-publish@v3.3
+            with: 
+              modrinth-id: HMm5nRel
+              modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+              modrinth-featured: true
+              
