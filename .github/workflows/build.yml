@@ -7,7 +7,7 @@ on:
         modpack:
           description: "Path to the modpack directory"
           required: false
-          default: './main'
+          default: ./main
 
       
 jobs:
@@ -49,6 +49,7 @@ jobs:
 
           - name: Build modpack using packwiz
             run: |
+              pwd
               packwiz refresh
               packwiz mr export
               echo "::notice ::Modpack ${{ inputs.modpack }} has been exported as .mrpack"
