@@ -46,6 +46,7 @@ jobs:
               packwiz refresh
               packwiz mr export
               echo "::notice ::Modpack ${{ inputs.modpack }} has been exported as .mrpack"
+              ls
             shell: bash
             working-directory: ./main
 
@@ -61,3 +62,5 @@ jobs:
                 --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
                 --clobber
               echo "::notice ::Modpack has been uploaded to GitHub Releases as a .mrpack"
+            shell: bash
+            working-directory: ./main
