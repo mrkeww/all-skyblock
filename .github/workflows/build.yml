@@ -7,7 +7,7 @@ on:
         modpack:
           description: "Path to the modpack directory"
           required: false
-          default: 'main'
+          default: './main'
 
       
 jobs:
