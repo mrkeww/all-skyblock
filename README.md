@@ -66,6 +66,8 @@ Optifine does not allow it being downloaded as part of the modpack so here is a 
 
     [OptiFine 1.8.9 HD U L5](https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar) works best
 
+- Turn fast render off, if your game flickers when you join a world/server or when already on a world/server
+
 ---
 
 <!---For detailed usage instructions and customization options, please refer to the [documentation](https://github.com/yourusername/mc-modpack-kit/wiki).-->
