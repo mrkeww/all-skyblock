@@ -1,6 +1,8 @@
 {
   "bootstrap-sha": "856554be6de94fbc899883833be8c604243dd202",
 
+  "include-component-in-tag": false,
+
   "changelog-sections": [
       {
       "type": "feat",
