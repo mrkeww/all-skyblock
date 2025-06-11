@@ -22,9 +22,4 @@ jobs:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          changelog-types: > 
-            [{"type":"feat","section":"★ Features","hidden":false},
-            {"type":"fix","section":"♻ Bug Fixes","hidden":false},
-            {"type":"mod","section":"☀ Modpack Changes","hidden":false},
-            {"type":"update","section":"⚘ Modpack Updates","hidden":false},
-            {"type":"chore","section":"⛭ Miscellaneous","hidden":false}]
+          config-file: release-please-config.json
