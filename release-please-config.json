@@ -5,6 +5,7 @@
   "packages": {
     ".": {}
   },
+  "release-as": "1.4.2",
 
   "changelog-sections": [
       {
@@ -15,7 +16,7 @@
     {
       "type": "fix",
       "section": "🐛 Bug Fixes",
-      "hidden": false
+      "hidden": true
     },
     {
       "type": "docs",
