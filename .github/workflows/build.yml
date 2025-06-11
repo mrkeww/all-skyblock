@@ -2,7 +2,7 @@ name: Build modpack and release to vendors
 on:
   workflow_dispatch:
   release: 
-    types: [published]
+    types: [released]
       
 jobs:
   Build-modpack:
