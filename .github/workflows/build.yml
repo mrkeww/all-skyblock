@@ -70,10 +70,9 @@ jobs:
           - name: Upload modpack to modrinth
             uses: Kir-Antipov/mc-publish@v3.3
             with: 
-              modrinth-id: HMm5nRel
+              modrinth-id: 66SUEymj
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
               modrinth-featured: true
               files: "main/*.mrpack"
               loaders: forge
               game-versions: 1.8.9
-              version: v1.4.1
