@@ -52,20 +52,20 @@ jobs:
             shell: bash
             working-directory: ./main
 
-          - name: Get latest tag
-            id: tag
-            uses: WyriHaximus/github-action-get-previous-tag@v1
+         # - name: Get latest tag
+         #   id: tag
+         #   uses: WyriHaximus/github-action-get-previous-tag@v1
 
-          - name: Upload modpack to github releases
-            env:
-              GH_TOKEN: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
-            run: |
-              gh release upload ${{ steps.tag.outputs.tag }} *.mrpack \
-                --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
-                --clobber
-              echo "::notice ::Modpack has been uploaded to GitHub Releases as a .mrpack"
-            shell: bash
-            working-directory: ./main
+         # - name: Upload modpack to github releases
+         #   env:
+         #     GH_TOKEN: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
+         #   run: |
+         #     gh release upload ${{ steps.tag.outputs.tag }} *.mrpack \
+         #       --repo ${{ github.repository_owner }}/${{ github.event.repository.name }} \
+         #       --clobber
+         #     echo "::notice ::Modpack has been uploaded to GitHub Releases as a .mrpack"
+         #   shell: bash
+         #   working-directory: ./main
 
           - name: Upload modpack to modrinth
             uses: Kir-Antipov/mc-publish@v3.3
