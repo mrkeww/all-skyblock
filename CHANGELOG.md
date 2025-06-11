@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.2 (2025-06-11)
+
+
+### ⬆️ Mod Updates
+
+* **mod update:** test ([6074352](https://github.com/mrkeww/all-skyblock/commit/607435241afb4119ed58226817165c76ca48b2fc))
+* **test:** update skytils.pw.toml (doesn't actually update skytils this is a test) ([#38](https://github.com/mrkeww/all-skyblock/issues/38)) ([7d11a9c](https://github.com/mrkeww/all-skyblock/commit/7d11a9c53defa98a2cde17ac234156b06e9949ea))
+
 ## [1.4.1](https://github.com/mrkeww/all-skyblock/compare/v1.3.8...v1.4.1) (2025-06-10)
 
 
