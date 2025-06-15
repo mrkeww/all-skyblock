@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.4.2 (2025-06-15)
+
+
+### ✨ Features
+
+* added preconfigured mod configs (optimized for 1080p monitors) ([bb59b41](https://github.com/mrkeww/all-skyblock/commit/bb59b410a7bacacecb6dd335cf1d90949de7b8af))
+
+
+### ⬆️ Mod Updates
+
+* **mod update:** test ([6074352](https://github.com/mrkeww/all-skyblock/commit/607435241afb4119ed58226817165c76ca48b2fc))
+* **test:** update skytils.pw.toml (doesn't actually update skytils this is a test) ([#38](https://github.com/mrkeww/all-skyblock/issues/38)) ([7d11a9c](https://github.com/mrkeww/all-skyblock/commit/7d11a9c53defa98a2cde17ac234156b06e9949ea))
+* updated skytils 1.11.0 &gt;&gt; 1.12.0-pre1 ([eca20c7](https://github.com/mrkeww/all-skyblock/commit/eca20c71d8efd75d2811c96c8e29a71b430ed150))
+
 ## [1.4.1](https://github.com/mrkeww/all-skyblock/compare/v1.3.8...v1.4.1) (2025-06-10)
 
 
