@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:brown_mushroom",
+  "displayname": "§fBrown Mushroom",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fBrown Mushroom\"},ExtraAttributes:{id:\"BROWN_MUSHROOM\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "BROWN_MUSHROOM",
+  "modver": "2.2.2",
+  "vanilla": true,
+  "clickcommand": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mushroom",
+    "https://wiki.hypixel.net/Mushroom"
+  ],
+  "crafttext": ""
+}

@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Mana Flux Power Orb",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"99c31026-ea17-3c79-852f-225223c3e66d\",Properties:{textures:[0:{Value:\"eyJ0aW1lc3RhbXAiOjE1Njk1ODM2NDYxMTksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyYWRhMWM3ZmNjOGNmMzVkZWZlYjk0NGE0ZjhmZmE5YTlkMjYwNTYwZmM3ZjVmNTgyNmRlODA4NTQzNTk2N2MifX19\"}]}},display:{Lore:[0:\"§6Ability: Deploy  §e§lRIGHT CLICK\",1:\"§7Place an orb for §a30s §7buffing up to §b5\",2:\"§b§7players within §a18 §7blocks.\",3:\"§8Costs 50% of max mana.\",4:\"§8Only one deployable buff applies.\",5:\"\",6:\"§9Orb Buff: Mana Flux\",7:\"§7Grants §b+50% §7base mana regen.\",8:\"§7Heals §c2% §7of max §c❤§7 per second.\",9:\"§7Grants §c+10❁ Strength§7.\",10:\"\",11:\"§7§4☠ §cRequires §5Wolf Slayer 6§c.\",12:\"§9§lRARE DEPLOYABLE\"],Name:\"§9Mana Flux Power Orb\"},ExtraAttributes:{id:\"MANA_FLUX_POWER_ORB\"}}",
+  "damage": 3,
+  "lore": [
+    "§6Ability: Deploy  §e§lRIGHT CLICK",
+    "§7Place an orb for §a30s §7buffing up to §b5",
+    "§b§7players within §a18 §7blocks.",
+    "§8Costs 50% of max mana.",
+    "§8Only one deployable buff applies.",
+    "",
+    "§9Orb Buff: Mana Flux",
+    "§7Grants §b+50% §7base mana regen.",
+    "§7Heals §c2% §7of max §c❤§7 per second.",
+    "§7Grants §c+10❁ Strength§7.",
+    "",
+    "§7§4☠ §cRequires §5Wolf Slayer 6§c.",
+    "§9§lRARE DEPLOYABLE"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
+    "A2": "GOLDEN_TOOTH:8",
+    "A3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
+    "B1": "GOLDEN_TOOTH:8",
+    "B2": "RADIANT_POWER_ORB:1",
+    "B3": "GOLDEN_TOOTH:8",
+    "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
+    "C2": "GOLDEN_TOOTH:8",
+    "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1"
+  },
+  "slayer_req": "WOLF_6",
+  "internalname": "MANA_FLUX_POWER_ORB",
+  "crafttext": "Requires: Wolf Slayer 6",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mana_Flux_Power_Orb",
+    "https://wiki.hypixel.net/Mana_Flux_Power_Orb"
+  ]
+}

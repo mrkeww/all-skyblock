@@ -1,0 +1,28 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§5Mender Crown",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"92df7550-8f29-3dee-a9f4-9df3d958e56f\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg1NDkzOSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzdlMTA3MGQxMjU4MWJkNDhlODBmNTkwNTRlOTI0MTJlNDUzYTYyN2VkMjk4OGIzYTVhMzVmZDVjNzA4ZTBkIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Gear Score: §d300 \",1:\"§7Health: §a+270\",2:\"§7Mending: §a+100\",3:\"\",4:\"§7Grants §a+100☄ Mending §7and §4♨\",5:\"§4Vitality §7while in Dungeons.\",6:\"\",7:\"§7§8This item can be reforged!\",8:\"§7§4❣ §cRequires §aThe Catacombs Floor\",9:\"§aVI Completion§c.\",10:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Mender Crown\"},ExtraAttributes:{id:\"MENDER_CROWN\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Gear Score: §d300 ",
+    "§7Health: §a+270",
+    "§7Mending: §a+100",
+    "",
+    "§7Grants §a+100☄ Mending §7and §4♨",
+    "§4Vitality §7while in Dungeons.",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aThe Catacombs Floor",
+    "§aVI Completion§c.",
+    "§5§lEPIC DUNGEON HELMET"
+  ],
+  "internalname": "MENDER_CROWN",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mender_Crown",
+    "https://wiki.hypixel.net/Mender_Crown"
+  ]
+}

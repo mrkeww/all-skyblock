@@ -1,0 +1,30 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§5Fossilized Silverfish Skin",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9383ffbc-3aa1-3c38-a957-97d4968ee2b7\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMTEwMjQ5MTY3OCwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2EzYTM2MzM2OGVkMWUwNmNlZTM5MDA3MTdmMDYyZTAyZWMzOWFlZTE3NDc2NzUzOTIyNTViNDhmN2Y4MzYwMCIKICAgIH0KICB9Cn0\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Silverfish pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Fossilized Silverfish Skin\"},ExtraAttributes:{originTag:\"FIRE_SALE\",id:\"PET_SKIN_SILVERFISH_FOSSILIZED\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Consumed on use",
+    "",
+    "§7§7Pet skins change the look and",
+    "§7particle trail of your pet but only",
+    "§7one skin can be active at a time!",
+    "",
+    "§7§7This skin can only be applied to",
+    "§7Silverfish pets.",
+    "",
+    "§7§eRight-click on your summoned pet to",
+    "§eapply this skin!",
+    "",
+    "§5§lEPIC COSMETIC"
+  ],
+  "internalname": "PET_SKIN_SILVERFISH_FOSSILIZED",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Fossilized_Silverfish_Skin",
+    "https://wiki.hypixel.net/Fossilized_Silverfish_Skin"
+  ]
+}

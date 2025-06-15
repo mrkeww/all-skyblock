@@ -1,0 +1,46 @@
+{
+  "internalname": "SCORPION_FOIL",
+  "itemid": "minecraft:wooden_sword",
+  "displayname": "§5Scorpion Foil",
+  "clickcommand": "viewrecipe",
+  "damage": 0,
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Strength: §c+100\",2:\"\",3:\"§7§7Deal §a250% §7damage and gain §3+45☯\",4:\"§3Combat Wisdom§7 against Spiders.\",5:\"\",6:\"§6Ability: Heartstopper \",7:\"§7You have §e4 Ⓞ tickers§7.\",8:\"§7Blocking clears §e1 Ⓞ §7and heals §c60❤§7.\",9:\"§7Once all tickers are cleared, your\",10:\"§7next attack is empowered for §c+250%\",11:\"§cdamage§7.\",12:\"§8Tickers refill after 5 seconds.\",13:\"\",14:\"§7§8This item can be reforged!\",15:\"§7§4☠ §cRequires §5Spider Slayer 6§c.\",16:\"§5§lEPIC SWORD\"],Name:\"§5Scorpion Foil\"},ExtraAttributes:{id:\"SCORPION_FOIL\"}}",
+  "modver": "",
+  "lore": [
+    "§7Damage: §c+100",
+    "§7Strength: §c+100",
+    "",
+    "§7§7Deal §a250% §7damage and gain §3+45☯",
+    "§3Combat Wisdom§7 against Spiders.",
+    "",
+    "§6Ability: Heartstopper ",
+    "§7You have §e4 Ⓞ tickers§7.",
+    "§7Blocking clears §e1 Ⓞ §7and heals §c60❤§7.",
+    "§7Once all tickers are cleared, your",
+    "§7next attack is empowered for §c+250%",
+    "§cdamage§7.",
+    "§8Tickers refill after 5 seconds.",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4☠ §cRequires §5Spider Slayer 6§c.",
+    "§5§lEPIC SWORD"
+  ],
+  "recipe": {
+    "A1": "TARANTULA_SILK:4",
+    "A2": "ENCHANTED_ACACIA_LOG:64",
+    "A3": "TARANTULA_SILK:4",
+    "B1": "TARANTULA_SILK:4",
+    "B2": "ENCHANTED_ACACIA_LOG:64",
+    "B3": "TARANTULA_SILK:4",
+    "C1": "TARANTULA_SILK:4",
+    "C2": "STICK:1",
+    "C3": "TARANTULA_SILK:4"
+  },
+  "slayer_req": "SPIDER_6",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Scorpion_Foil",
+    "https://wiki.hypixel.net/Scorpion_Foil"
+  ],
+  "crafttext": "Requires: Spider Slayer 6"
+}

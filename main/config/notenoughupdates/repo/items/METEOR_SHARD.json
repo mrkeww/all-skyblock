@@ -1,0 +1,45 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Meteor Shard",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"c15625d3-a174-3d3f-b966-70fe33437209\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ3Mzc1OTk4NiwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmMzc5MjEyZjQyMDYwYWUwNTYzYzcwNzM5YTdlYzQyYWQ0OGU3MGY3NDIxMGIyOTBkMjMwN2E0Nzg0NWVjMmMiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§8Reforge Stone\",1:\"§7§8Combinable in Reforge Anvil\",2:\"\",3:\"§7Applies the §9Fortified §7reforge when\",4:\"§7combined with equipment§7.\",5:\"\",6:\"§7§8§oA very strange find once found\",7:\"§8§oinside the carcass of a Ghast. It\",8:\"§8§oseems like they enjoy a snack that\",9:\"§8§ois out of this world from time to time.\",10:\"\",11:\"§9Fortified §7(§6Legendary§7):\",12:\"§7Defense: §a+25\",13:\"\",14:\"§7Requires §aMining Skill Level XXIV§7!\",15:\"\",16:\"§9§lRARE REFORGE STONE\"],Name:\"§9Meteor Shard\"},ExtraAttributes:{id:\"METEOR_SHARD\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Reforge Stone",
+    "§7§8Combinable in Reforge Anvil",
+    "",
+    "§7Applies the §9Fortified §7reforge when",
+    "§7combined with equipment§7.",
+    "",
+    "§7§8§oA very strange find once found",
+    "§8§oinside the carcass of a Ghast. It",
+    "§8§oseems like they enjoy a snack that",
+    "§8§ois out of this world from time to time.",
+    "",
+    "§9Fortified §7(§6Legendary§7):",
+    "§7Defense: §a+25",
+    "",
+    "§7Requires §aMining Skill Level XXIV§7!",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "recipe": {
+    "A1": "SILVER_FANG:10",
+    "A2": "STARFALL:5",
+    "A3": "SILVER_FANG:10",
+    "B1": "STARFALL:5",
+    "B2": "TENTACLE_MEAT:10",
+    "B3": "STARFALL:5",
+    "C1": "SILVER_FANG:10",
+    "C2": "STARFALL:5",
+    "C3": "SILVER_FANG:10"
+  },
+  "internalname": "METEOR_SHARD",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Meteor_Shard",
+    "https://wiki.hypixel.net/Meteor_Shard"
+  ],
+  "crafttext": ""
+}

@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:nether_star",
+  "displayname": "§6Nether Star",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§6Nether Star\"},ExtraAttributes:{id:\"CORRUPTED_NETHER_STAR\"}}",
+  "damage": 0,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§6§lLEGENDARY"
+  ],
+  "internalname": "CORRUPTED_NETHER_STAR",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Nether_Star",
+    "https://wiki.hypixel.net/Nether_Star"
+  ]
+}

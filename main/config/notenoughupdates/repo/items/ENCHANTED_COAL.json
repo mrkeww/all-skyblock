@@ -1,0 +1,52 @@
+{
+  "itemid": "minecraft:coal",
+  "displayname": "§aEnchanted Coal",
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a10%§7 for 24\",4:\"§7hours§7!\",5:\"\",6:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Coal\"},ExtraAttributes:{id:\"ENCHANTED_COAL\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§7Increases the speed of",
+    "§7your minion by §a10%§7 for 24",
+    "§7hours§7!",
+    "",
+    "§a§lUNCOMMON ORE"
+  ],
+  "internalname": "ENCHANTED_COAL",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Coal",
+    "https://wiki.hypixel.net/Enchanted_Coal"
+  ],
+  "crafttext": "Requires: Coal IV",
+  "recipes": [
+    {
+      "type": "crafting",
+      "A1": "",
+      "A2": "COAL:32",
+      "A3": "",
+      "B1": "COAL:32",
+      "B2": "COAL:32",
+      "B3": "COAL:32",
+      "C1": "",
+      "C2": "COAL:32",
+      "C3": "",
+      "count": 1
+    },
+    {
+      "type": "crafting",
+      "A1": "",
+      "A2": "COAL_BLOCK:32",
+      "A3": "",
+      "B1": "COAL_BLOCK:32",
+      "B2": "COAL_BLOCK:32",
+      "B3": "COAL_BLOCK:32",
+      "C1": "",
+      "C2": "COAL_BLOCK:32",
+      "C3": "",
+      "count": 9
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:golden_axe",
+  "displayname": "§5Treecapitator",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\" §8[§8☘§8] §8[§8☘§8]\",1:\"\",2:\"§7A forceful Gold Axe which can break\",3:\"§7a large amount of logs in a single hit!\",4:\"§8Cooldown: §a2s\",5:\"\",6:\"§7§8This item can be reforged!\",7:\"§5§lEPIC AXE\"],Name:\"§5Treecapitator\"},ExtraAttributes:{id:\"TREECAPITATOR_AXE\"}}",
+  "damage": 0,
+  "lore": [
+    " §8[§8☘§8] §8[§8☘§8]",
+    "",
+    "§7A forceful Gold Axe which can break",
+    "§7a large amount of logs in a single hit!",
+    "§8Cooldown: §a2s",
+    "",
+    "§7§8This item can be reforged!",
+    "§5§lEPIC AXE"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_OBSIDIAN:64",
+    "A2": "ENCHANTED_OBSIDIAN:64",
+    "A3": "ENCHANTED_OBSIDIAN:64",
+    "B1": "ENCHANTED_OBSIDIAN:64",
+    "B2": "JUNGLE_AXE:1",
+    "B3": "ENCHANTED_OBSIDIAN:64",
+    "C1": "ENCHANTED_OBSIDIAN:64",
+    "C2": "ENCHANTED_OBSIDIAN:64",
+    "C3": "ENCHANTED_OBSIDIAN:64"
+  },
+  "internalname": "TREECAPITATOR_AXE",
+  "clickcommand": "viewrecipe",
+  "modver": "2.1.1-PRE",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Treecapitator",
+    "https://wiki.hypixel.net/Treecapitator"
+  ],
+  "crafttext": "Requires: Obsidian VIII"
+}

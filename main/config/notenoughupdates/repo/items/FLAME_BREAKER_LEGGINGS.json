@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:chainmail_leggings",
+  "displayname": "§5Flamebreaker Leggings",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Health: §a+60\",1:\"§7Defense: §a+60\",2:\"§7Mining Speed: §a+25\",3:\"§7Mining Fortune: §a+15\",4:\"§7Heat Resistance: §a+5\",5:\" §8[§7❤§8] §8[§8⸕§8] §8[§8☘§8]\",6:\"\",7:\"§7§8This item can be reforged!\",8:\"§7§4❣ §cRequires §aHard Stone Collection V§c.\",9:\"§5§lEPIC LEGGINGS\"],Name:\"§5Flamebreaker Leggings\"},ExtraAttributes:{id:\"FLAME_BREAKER_LEGGINGS\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §a+60",
+    "§7Defense: §a+60",
+    "§7Mining Speed: §a+25",
+    "§7Mining Fortune: §a+15",
+    "§7Heat Resistance: §a+5",
+    " §8[§7❤§8] §8[§8⸕§8] §8[§8☘§8]",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aHard Stone Collection V§c.",
+    "§5§lEPIC LEGGINGS"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_HARD_STONE:20",
+    "A2": "ENCHANTED_HARD_STONE:20",
+    "A3": "ENCHANTED_HARD_STONE:20",
+    "B1": "ENCHANTED_HARD_STONE:20",
+    "B2": "",
+    "B3": "ENCHANTED_HARD_STONE:20",
+    "C1": "ENCHANTED_HARD_STONE:20",
+    "C2": "",
+    "C3": "ENCHANTED_HARD_STONE:20"
+  },
+  "internalname": "FLAME_BREAKER_LEGGINGS",
+  "crafttext": "Requires: Hard Stone V",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Flamebreaker_Leggings",
+    "https://wiki.hypixel.net/Flamebreaker_Leggings"
+  ]
+}

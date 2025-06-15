@@ -1,0 +1,20 @@
+{
+  "itemid": "minecraft:stick",
+  "displayname": "§6Necron\u0027s Handle",
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§6§lLEGENDARY DUNGEON ITEM\"],Name:\"§6Necron\u0027s Handle\"},ExtraAttributes:{id:\"NECRON_HANDLE\"}}",
+  "damage": 0,
+  "lore": [
+    "§eRight-click to view recipes!",
+    "",
+    "§6§lLEGENDARY DUNGEON ITEM"
+  ],
+  "internalname": "NECRON_HANDLE",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Handle",
+    "https://wiki.hypixel.net/Necron%27s_Handle"
+  ]
+}

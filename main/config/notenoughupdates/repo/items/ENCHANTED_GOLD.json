@@ -1,0 +1,49 @@
+{
+  "itemid": "minecraft:gold_ingot",
+  "displayname": "§aEnchanted Gold",
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§7§8Brewing Ingredient\",1:\"§7§8Collection Item\",2:\"\",3:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Gold\"},ExtraAttributes:{id:\"ENCHANTED_GOLD\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Brewing Ingredient",
+    "§7§8Collection Item",
+    "",
+    "§a§lUNCOMMON ORE"
+  ],
+  "internalname": "ENCHANTED_GOLD",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Gold",
+    "https://wiki.hypixel.net/Enchanted_Gold"
+  ],
+  "crafttext": "Requires: Gold Ingot IV",
+  "recipes": [
+    {
+      "type": "crafting",
+      "A1": "",
+      "A2": "GOLD_INGOT:32",
+      "A3": "",
+      "B1": "GOLD_INGOT:32",
+      "B2": "GOLD_INGOT:32",
+      "B3": "GOLD_INGOT:32",
+      "C1": "",
+      "C2": "GOLD_INGOT:32",
+      "C3": "",
+      "count": 1
+    },
+    {
+      "type": "crafting",
+      "A1": "",
+      "A2": "GOLD_BLOCK:32",
+      "A3": "",
+      "B1": "GOLD_BLOCK:32",
+      "B2": "GOLD_BLOCK:32",
+      "B3": "GOLD_BLOCK:32",
+      "C1": "",
+      "C2": "GOLD_BLOCK:32",
+      "C3": "",
+      "count": 9
+    }
+  ]
+}

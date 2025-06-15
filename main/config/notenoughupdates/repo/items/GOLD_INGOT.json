@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:gold_ingot",
+  "displayname": "§fGold Ingot",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Brewing Ingredient\",1:\"§7§8Collection Item\",2:\"\",3:\"§f§lCOMMON ORE\"],Name:\"§fGold Ingot\"},ExtraAttributes:{id:\"GOLD_INGOT\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Brewing Ingredient",
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON ORE"
+  ],
+  "internalname": "GOLD_INGOT",
+  "modver": "",
+  "vanilla": true,
+  "clickcommand": "viewrecipe",
+  "recipe": {
+    "A1": "GOLD_BLOCK:1",
+    "A2": "",
+    "A3": "",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": "",
+    "count": 9
+  },
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Gold_Ingot"
+  ],
+  "crafttext": ""
+}

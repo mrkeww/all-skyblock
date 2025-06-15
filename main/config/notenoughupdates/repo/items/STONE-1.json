@@ -1,0 +1,27 @@
+{
+  "itemid": "minecraft:stone",
+  "displayname": "§fGranite",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fGranite\"},ExtraAttributes:{id:\"STONE-1\"}}",
+  "damage": 1,
+  "lore": [
+    "§f§lCOMMON"
+  ],
+  "internalname": "STONE-1",
+  "parent": "STONE",
+  "modver": "2.1.1-PRE",
+  "vanilla": true,
+  "clickcommand": "viewrecipe",
+  "recipe": {
+    "A1": "STONE-3:1",
+    "A2": "QUARTZ:1",
+    "A3": "",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": ""
+  },
+  "crafttext": "",
+  "infoType": ""
+}

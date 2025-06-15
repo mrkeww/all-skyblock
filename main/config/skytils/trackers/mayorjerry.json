@@ -1,0 +1,20 @@
+{
+    "jerry": {
+        "GREEN": 0,
+        "BLUE": 0,
+        "PURPLE": 0,
+        "GOLDEN": 0
+    },
+    "drops": {
+        "COINS": 0,
+        "FARMINGXP": 0,
+        "FORAGINGXP": 0,
+        "MININGXP": 0,
+        "JERRYCANDY": 0,
+        "JERRYRUNE": 0,
+        "JERRYTALI": 0,
+        "JERRYSTONE": 0,
+        "JERRYCHINE": 0,
+        "JERRYGLASSES": 0
+    }
+}

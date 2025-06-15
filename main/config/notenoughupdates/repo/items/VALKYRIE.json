@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:iron_sword",
+  "displayname": "§6Valkyrie",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Gear Score: §d605\",1:\"§7Damage: §c+320\",2:\"§7Strength: §c+195\",3:\"§7Intelligence: §a+60\",4:\"§7Ferocity: §a+60\",5:\" §8[§8❁§8] §8[§8⚔§8]\",6:\"\",7:\"§7Deals §c+50% §7damage to Withers.\",8:\"§7Grants §c+1 §c❁ Damage §7and §a+1 §c❁\",9:\"§cStrength §7per §cCatacombs §7level.\",10:\"\",11:\"§eRight-click to use your class ability!\",12:\"\",13:\"§7§8This item can be reforged!\",14:\"§7§4❣ §cRequires §aThe Catacombs Floor\",15:\"§aVII Completion§c.\",16:\"§6§lLEGENDARY DUNGEON SWORD\"],Name:\"§6Valkyrie\"},ExtraAttributes:{id:\"VALKYRIE\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Gear Score: §d605",
+    "§7Damage: §c+320",
+    "§7Strength: §c+195",
+    "§7Intelligence: §a+60",
+    "§7Ferocity: §a+60",
+    " §8[§8❁§8] §8[§8⚔§8]",
+    "",
+    "§7Deals §c+50% §7damage to Withers.",
+    "§7Grants §c+1 §c❁ Damage §7and §a+1 §c❁",
+    "§cStrength §7per §cCatacombs §7level.",
+    "",
+    "§eRight-click to use your class ability!",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aThe Catacombs Floor",
+    "§aVII Completion§c.",
+    "§6§lLEGENDARY DUNGEON SWORD"
+  ],
+  "recipe": {
+    "A1": "GIANT_FRAGMENT_DIAMOND:1",
+    "A2": "GIANT_FRAGMENT_DIAMOND:1",
+    "A3": "GIANT_FRAGMENT_DIAMOND:1",
+    "B1": "GIANT_FRAGMENT_DIAMOND:1",
+    "B2": "NECRON_BLADE:1",
+    "B3": "GIANT_FRAGMENT_DIAMOND:1",
+    "C1": "GIANT_FRAGMENT_DIAMOND:1",
+    "C2": "GIANT_FRAGMENT_DIAMOND:1",
+    "C3": "GIANT_FRAGMENT_DIAMOND:1"
+  },
+  "internalname": "VALKYRIE",
+  "parent": "NECRON_BLADE",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "crafttext": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Valkyrie",
+    "https://wiki.hypixel.net/Valkyrie"
+  ]
+}

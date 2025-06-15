@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:iron_ingot",
+  "displayname": "§fIron Ingot",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§f§lCOMMON ORE\"],Name:\"§fIron Ingot\"},ExtraAttributes:{id:\"IRON_INGOT\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON ORE"
+  ],
+  "internalname": "IRON_INGOT",
+  "modver": "",
+  "vanilla": true,
+  "clickcommand": "viewrecipe",
+  "recipe": {
+    "A1": "IRON_BLOCK:1",
+    "A2": "",
+    "A3": "",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": "",
+    "count": 9
+  },
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Iron_Ingot"
+  ],
+  "crafttext": ""
+}

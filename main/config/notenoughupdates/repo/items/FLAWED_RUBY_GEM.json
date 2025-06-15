@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§a❤ Flawed Ruby Gemstone",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"b5c84278-118b-3634-89e0-547cb6166c0a\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU0NDYyMywKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZDgxMDY4Y2JkZjRhMzY0MjMxYTI2NDUzZDZjZDY2MGEwMDk1ZjljZDg3OTUzMDdjNWJlNjY3NDI3NzEyZSIKICAgIH0KICB9Cn0\"}]}},display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§7A slightly better version of §cRuby§7,\",3:\"§7but it could still use some work.\",4:\"\",5:\"§7§7Some say that when §eharnessed\",6:\"§eproperly§7, it can give its owner extra\",7:\"§7§c❤ Health§7.\",8:\"\",9:\"§a§lUNCOMMON GEMSTONE\"],Name:\"§a❤ Flawed Ruby Gemstone\"},ExtraAttributes:{id:\"FLAWED_RUBY_GEM\"}}",
+  "damage": 3,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§7A slightly better version of §cRuby§7,",
+    "§7but it could still use some work.",
+    "",
+    "§7§7Some say that when §eharnessed",
+    "§eproperly§7, it can give its owner extra",
+    "§7§c❤ Health§7.",
+    "",
+    "§a§lUNCOMMON GEMSTONE"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "ROUGH_RUBY_GEM:16",
+    "A3": "",
+    "B1": "ROUGH_RUBY_GEM:16",
+    "B2": "ROUGH_RUBY_GEM:16",
+    "B3": "ROUGH_RUBY_GEM:16",
+    "C1": "",
+    "C2": "ROUGH_RUBY_GEM:16",
+    "C3": ""
+  },
+  "internalname": "FLAWED_RUBY_GEM",
+  "crafttext": "Requires: Gemstone II",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Gemstone",
+    "https://wiki.hypixel.net/Gemstone"
+  ]
+}

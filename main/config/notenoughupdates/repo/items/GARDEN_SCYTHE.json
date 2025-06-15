@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:iron_hoe",
+  "displayname": "§aGarden Scythe",
+  "nbttag": "{ench:[],Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7§7Cleans a §95x5 §7area of grass, leaves\",1:\"§7and flowers.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aGarden Scythe\"},ExtraAttributes:{id:\"GARDEN_SCYTHE\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§7Cleans a §95x5 §7area of grass, leaves",
+    "§7and flowers.",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "GARDEN_SCYTHE",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Garden_Scythe",
+    "https://wiki.hypixel.net/Garden_Scythe"
+  ]
+}

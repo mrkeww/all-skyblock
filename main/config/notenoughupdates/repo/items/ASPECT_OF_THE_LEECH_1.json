@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:wooden_shovel",
+  "displayname": "§aAspect of the Leech",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§6Ability: Weird Transmission  §e§lRIGHT CLICK\",1:\"§7Teleport §a3 blocks§7 ahead of you.\",2:\"§8Mana Cost: §360\",3:\"\",4:\"§a§lUNCOMMON WAND\"],Name:\"§aAspect of the Leech\"},ExtraAttributes:{id:\"ASPECT_OF_THE_LEECH_1\"}}",
+  "damage": 0,
+  "lore": [
+    "§6Ability: Weird Transmission  §e§lRIGHT CLICK",
+    "§7Teleport §a3 blocks§7 ahead of you.",
+    "§8Mana Cost: §360",
+    "",
+    "§a§lUNCOMMON WAND"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "LIL_PAD:64",
+    "A3": "",
+    "B1": "",
+    "B2": "LIL_PAD:64",
+    "B3": "",
+    "C1": "",
+    "C2": "LEECH_SUPREME_FRAGMENT:8",
+    "C3": ""
+  },
+  "internalname": "ASPECT_OF_THE_LEECH_1",
+  "clickcommand": "viewrecipe",
+  "modver": "2.5.0",
+  "crafttext": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Aspect_of_the_Leech",
+    "https://wiki.hypixel.net/Aspect_Of_The_Leech"
+  ]
+}

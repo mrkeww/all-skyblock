@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:slime_ball",
+  "displayname": "§fSlimeball",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Brewing Ingredient\",1:\"§7§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fSlimeball\"},ExtraAttributes:{id:\"SLIME_BALL\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Brewing Ingredient",
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "SLIME_BALL",
+  "modver": "2.2.2",
+  "vanilla": true,
+  "clickcommand": "viewrecipe",
+  "recipe": {
+    "A1": "SLIME_BLOCK:1",
+    "A2": "",
+    "A3": "",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": ""
+  },
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Slimeball"
+  ],
+  "crafttext": ""
+}

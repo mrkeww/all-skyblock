@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:wheat",
+  "displayname": "§fWheat",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fWheat\"},ExtraAttributes:{id:\"WHEAT\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "WHEAT",
+  "modver": "2.2.2",
+  "vanilla": true,
+  "clickcommand": "viewrecipe",
+  "recipe": {
+    "A1": "HAY_BLOCK:1",
+    "A2": "",
+    "A3": "",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": ""
+  },
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Wheat"
+  ],
+  "crafttext": ""
+}

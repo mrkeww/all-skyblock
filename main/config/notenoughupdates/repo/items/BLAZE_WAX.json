@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§9Blaze Wax",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ed8a2d8a-a704-3837-b87a-ac335082c409\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ3Mzc4MDA4NSwKICAicHJvZmlsZUlkIiA6ICI1YjY2YzNkZWZhYTI0NWMzYTcwNjM3OTA3NTQ0Yjg3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFuX1JhaWNvMDgxNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mN2JlYzM3NmVjYmVjNTRkYzY3OTVjYmNhNDkxOGUxMmIxNTNkZDM0YTA4MjdhYmM5YmE3YmU2M2FmODdjMDc4IgogICAgfQogIH0KfQ\"}]}},display:{Lore:[0:\"§8Reforge Stone\",1:\"§7§8Combinable in Reforge Anvil\",2:\"\",3:\"§7Applies the §9Waxed §7reforge when\",4:\"§7combined with equipment§7.\",5:\"\",6:\"§7§8§oUsed by some Master Blacksmiths to\",7:\"§8§oinfuse equipments with an immense\",8:\"§8§opower. It\u0027s also a great replacement\",9:\"§8§ofor butter.\",10:\"\",11:\"§9Waxed §7(§6Legendary§7):\",12:\"§7Health: §a+12\",13:\"§7Crit Chance: §c+6%\",14:\"\",15:\"§7Requires §aMining Skill Level XXIV§7!\",16:\"\",17:\"§9§lRARE REFORGE STONE\"],Name:\"§9Blaze Wax\"},ExtraAttributes:{id:\"BLAZE_WAX\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Reforge Stone",
+    "§7§8Combinable in Reforge Anvil",
+    "",
+    "§7Applies the §9Waxed §7reforge when",
+    "§7combined with equipment§7.",
+    "",
+    "§7§8§oUsed by some Master Blacksmiths to",
+    "§8§oinfuse equipments with an immense",
+    "§8§opower. It\u0027s also a great replacement",
+    "§8§ofor butter.",
+    "",
+    "§9Waxed §7(§6Legendary§7):",
+    "§7Health: §a+12",
+    "§7Crit Chance: §c+6%",
+    "",
+    "§7Requires §aMining Skill Level XXIV§7!",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_BLAZE_POWDER:10",
+    "A2": "ENCHANTED_BLAZE_POWDER:10",
+    "A3": "ENCHANTED_BLAZE_POWDER:10",
+    "B1": "ENCHANTED_BLAZE_POWDER:10",
+    "B2": "BEZOS:10",
+    "B3": "ENCHANTED_BLAZE_POWDER:10",
+    "C1": "ENCHANTED_BLAZE_POWDER:10",
+    "C2": "ENCHANTED_BLAZE_POWDER:10",
+    "C3": "ENCHANTED_BLAZE_POWDER:10"
+  },
+  "internalname": "BLAZE_WAX",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "crafttext": "Requires: Blaze Rod VI",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Blaze_Wax",
+    "https://wiki.hypixel.net/Blaze_Wax"
+  ]
+}

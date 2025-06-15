@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:mutton",
+  "displayname": "§fMutton",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7§8Brewing Ingredient\",1:\"§7§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fMutton\"},ExtraAttributes:{id:\"MUTTON\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Brewing Ingredient",
+    "§7§8Collection Item",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "MUTTON",
+  "modver": "2.2.2",
+  "vanilla": true,
+  "clickcommand": "",
+  "crafttext": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Raw_Mutton"
+  ]
+}

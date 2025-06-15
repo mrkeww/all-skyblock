@@ -1,0 +1,28 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§5Mender Fedora",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"1c252a0b-580c-3cf4-85a6-0c228cde5f02\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg3NDg0NiwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyZDBlN2I2MGZhZGY5YjA4MDVhYTg2NmVkN2JkMjk4MGFiZWEwODEyZGIyYjcxNTA3NTJhNzFmYmYyZTIwZWYiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Gear Score: §d250\",1:\"§7Health: §a+220\",2:\"§7Mending: §a+100\",3:\"\",4:\"§7Grants §a+100☄ Mending §7and §4♨\",5:\"§4Vitality §7while in Dungeons.\",6:\"\",7:\"§7§8This item can be reforged!\",8:\"§7§4❣ §cRequires §aThe Catacombs Floor\",9:\"§aIII Completion§c.\",10:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Mender Fedora\"},ExtraAttributes:{id:\"MENDER_FEDORA\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Gear Score: §d250",
+    "§7Health: §a+220",
+    "§7Mending: §a+100",
+    "",
+    "§7Grants §a+100☄ Mending §7and §4♨",
+    "§4Vitality §7while in Dungeons.",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aThe Catacombs Floor",
+    "§aIII Completion§c.",
+    "§5§lEPIC DUNGEON HELMET"
+  ],
+  "internalname": "MENDER_FEDORA",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mender_Fedora",
+    "https://wiki.hypixel.net/Mender_Fedora"
+  ]
+}

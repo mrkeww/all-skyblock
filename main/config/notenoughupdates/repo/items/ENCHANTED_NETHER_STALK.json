@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:nether_wart",
+  "displayname": "§aEnchanted Nether Wart",
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§7§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Nether Wart\"},ExtraAttributes:{id:\"ENCHANTED_NETHER_STALK\"}}",
+  "damage": 0,
+  "lore": [
+    "§7§8Collection Item",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "NETHER_STALK:32",
+    "A3": "",
+    "B1": "NETHER_STALK:32",
+    "B2": "NETHER_STALK:32",
+    "B3": "NETHER_STALK:32",
+    "C1": "",
+    "C2": "NETHER_STALK:32",
+    "C3": ""
+  },
+  "internalname": "ENCHANTED_NETHER_STALK",
+  "clickcommand": "viewrecipe",
+  "modver": "2.2.2",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Nether_Wart",
+    "https://wiki.hypixel.net/Enchanted_Nether_Wart"
+  ],
+  "crafttext": "Requires: Nether Wart IV"
+}

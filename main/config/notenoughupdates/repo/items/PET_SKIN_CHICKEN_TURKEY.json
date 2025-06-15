@@ -1,0 +1,30 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§5Turkey Chicken Skin",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9116774d-9b12-374d-92e4-e4784f836b87\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzOTI4ODg3NDQxNywKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQWFkxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzNmM1MTUzZDAwZGQ3MzU2ZWI5YWE0MzhlOWYxZmU2NjhjZTNlMjY0OTg3OTNlZDMzYzEzOTA4OTU1Yjk1ZTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Chicken pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Turkey Chicken Skin\"},ExtraAttributes:{id:\"PET_SKIN_CHICKEN_TURKEY\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Consumed on use",
+    "",
+    "§7§7Pet skins change the look and",
+    "§7particle trail of your pet but only",
+    "§7one skin can be active at a time!",
+    "",
+    "§7§7This skin can only be applied to",
+    "§7Chicken pets.",
+    "",
+    "§7§eRight-click on your summoned pet to",
+    "§eapply this skin!",
+    "",
+    "§5§lEPIC COSMETIC"
+  ],
+  "internalname": "PET_SKIN_CHICKEN_TURKEY",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Turkey_Chicken_Skin",
+    "https://wiki.hypixel.net/Turkey_Chicken_Skin"
+  ]
+}

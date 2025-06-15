@@ -1,0 +1,48 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6Gemstone Gauntlet",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"4d32846a-7945-345a-8f48-f107f6c92b15\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDIzOTE2MTcwMywKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YmYwMWMxOThmNmUxNjk2NWUyMzAyMzVjZDIyYTVhOWY0YTQwZTQwOTQxMjM0NDc4OTQ4ZmY5YTU2ZTUxNzc1IgogICAgfQogIH0KfQ\"}]}},display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+300\",3:\"§7Strength: §c+50\",4:\"§7Mining Speed: §a+800\",5:\" §8[§7☘§8] §8[§7⸕§8] §8[§7✧§8] §8[§7✎§8] §8[§7❈§8]\",6:\"\",7:\"§7§6Ability: Reduced To Atoms\",8:\"§7Mobs killed on §bMining Islands §7drop the same\",9:\"§7§dGemstones §7as your filled Gemstone Slots.\",10:\"§7§8(2s cooldown)\",11:\"§7\",12:\"§7§6Ability: Kinetic\",13:\"§7Killing mobs on §bMining Islands §7reduces your\",14:\"§7§6Forge Timers §7by §a0s§7.\",15:\"§7§8(+0.5s per Perfect Gemstone)\",16:\"\",17:\"§7§8This item can be reforged!\",18:\"§7§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",19:\"§6§lLEGENDARY GAUNTLET\"],Name:\"§6Gemstone Gauntlet\"},ExtraAttributes:{id:\"GEMSTONE_GAUNTLET\"}}",
+  "damage": 3,
+  "lore": [
+    "§8Breaking Power 8",
+    "",
+    "§7Damage: §c+300",
+    "§7Strength: §c+50",
+    "§7Mining Speed: §a+800",
+    " §8[§7☘§8] §8[§7⸕§8] §8[§7✧§8] §8[§7✎§8] §8[§7❈§8]",
+    "",
+    "§7§6Ability: Reduced To Atoms",
+    "§7Mobs killed on §bMining Islands §7drop the same",
+    "§7§dGemstones §7as your filled Gemstone Slots.",
+    "§7§8(2s cooldown)",
+    "§7",
+    "§7§6Ability: Kinetic",
+    "§7Killing mobs on §bMining Islands §7reduces your",
+    "§7§6Forge Timers §7by §a0s§7.",
+    "§7§8(+0.5s per Perfect Gemstone)",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §5Heart of the Mountain Tier 6§c.",
+    "§6§lLEGENDARY GAUNTLET"
+  ],
+  "recipe": {
+    "A1": "FLAWLESS_RUBY_GEM:1",
+    "A2": "FLAWLESS_RUBY_GEM:1",
+    "A3": "FLAWLESS_RUBY_GEM:1",
+    "B1": "FLAWLESS_RUBY_GEM:1",
+    "B2": "ENCHANTED_GOLD_BLOCK:16",
+    "B3": "FLAWLESS_RUBY_GEM:1",
+    "C1": "FLAWLESS_RUBY_GEM:1",
+    "C2": "FLAWLESS_RUBY_GEM:1",
+    "C3": "FLAWLESS_RUBY_GEM:1"
+  },
+  "internalname": "GEMSTONE_GAUNTLET",
+  "crafttext": "Requires: Gemstone XI",
+  "clickcommand": "viewrecipe",
+  "modver": "2.3.2",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Gauntlet",
+    "https://wiki.hypixel.net/Gemstone_Gauntlet"
+  ]
+}

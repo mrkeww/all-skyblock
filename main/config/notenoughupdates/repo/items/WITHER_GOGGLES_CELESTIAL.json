@@ -1,0 +1,30 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§dCelestial Wither Goggles Skin",
+  "nbttag": "{overrideMeta:1b,HideFlags:254,SkullOwner:{Id:\"ac2c6013-72d4-3d3a-b4d1-5149f37da501\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY3MzAxNDczODIxNCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMGU1Y2Y5MTE2OTkxZjEzNWJiYTY5NDU1YTgwMDYwZDAwMzViZDY1Zjg3MTBhN2M5YWJhOWQ3NTU2ZTk1ZmM5IgogICAgfQogIH0KfQ\"}]}},display:{Lore:[0:\"§7§8Combinable in Anvil\",1:\"\",2:\"§7§7Item skins give your gear a\",3:\"§7fresh new look! Apply them just\",4:\"§7like an enchant book using the\",5:\"§7anvil.\",6:\"\",7:\"§7§7This skin can be applied to\",8:\"§7§5Wither Goggles§7.\",9:\"\",10:\"§7§aThis skin is animated!\",11:\"\",12:\"§d§lMYTHIC COSMETIC\"],Name:\"§dCelestial Wither Goggles Skin\"},ExtraAttributes:{id:\"WITHER_GOGGLES_CELESTIAL\"},AttributeModifiers:[]}",
+  "damage": 3,
+  "lore": [
+    "§7§8Combinable in Anvil",
+    "",
+    "§7§7Item skins give your gear a",
+    "§7fresh new look! Apply them just",
+    "§7like an enchant book using the",
+    "§7anvil.",
+    "",
+    "§7§7This skin can be applied to",
+    "§7§5Wither Goggles§7.",
+    "",
+    "§7§aThis skin is animated!",
+    "",
+    "§d§lMYTHIC COSMETIC"
+  ],
+  "internalname": "WITHER_GOGGLES_CELESTIAL",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "2.1.0-REL",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Celestial_Wither_Goggles_Skin",
+    "https://wiki.hypixel.net/Celestial_Wither_Goggles_Skin"
+  ]
+}

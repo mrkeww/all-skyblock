@@ -1,0 +1,23 @@
+{
+  "internalname": "BLOCK_ZAPPER",
+  "itemid": "minecraft:flint",
+  "displayname": "§5Block Zapper",
+  "clickcommand": "",
+  "damage": 0,
+  "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"\",1:\"§6Ability: Grand... Zapper?  §e§lRIGHT CLICK\",2:\"§7Right-Click a block to zap all\",3:\"§7connected blocks of the same type.\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Block Zapper\"},ExtraAttributes:{id:\"BLOCK_ZAPPER\"}}",
+  "modver": "",
+  "lore": [
+    "",
+    "§6Ability: Grand... Zapper?  §e§lRIGHT CLICK",
+    "§7Right-Click a block to zap all",
+    "§7connected blocks of the same type.",
+    "",
+    "§5§lEPIC"
+  ],
+  "crafttext": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Block_Zapper",
+    "https://wiki.hypixel.net/Block_Zapper"
+  ]
+}
