@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "eae02cd9432a86b13d2ff9caef3b172b56d52273f0058c1d5f1c1a6f1375526c"
-
-[[files]]
 file = "config/Apec/GuiDeltas.txt"
 hash = "952ad892f1caad025cfdfd6361d6c5b932de1e47d45e8bcd605d5a635b487cad"
 
@@ -32047,10 +32043,6 @@ hash = "e1037e533b00e765d2690dfc4bf5256e76387af022587cf94c7cd1aaec85af4b"
 metafile = true
 
 [[files]]
-file = "mods/package.json"
-hash = "6e8a05c2602c09b4628f3a086e29d66cdbb148ca9dee670250261ef2b454f1cd"
-
-[[files]]
 file = "mods/patcher.pw.toml"
 hash = "548dc0e40148d601b134885e61dfaa5eb8a846661c81ab88ecd3c51f5da8f658"
 metafile = true
@@ -32067,7 +32059,7 @@ metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "18c88f06df52bc3715ee1c53c09d315da2f5a8fcd00198387912ec86e6f39556"
+hash = "60cc4b5e305039c3c9b84b0b68a5bee8c5c4c9a84290367d62185a3f5007dc88"
 metafile = true
 
 [[files]]
