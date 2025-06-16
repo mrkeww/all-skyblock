@@ -1,7 +1,15 @@
-name = "CowLection"
+name = "Cowlection"
 filename = "Cowlection-1.8.9-0.16.1.jar"
+side = "both"
 
 [download]
 url = "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.16.1/Cowlection-1.8.9-0.16.1.jar"
 hash-format = "sha256"
 hash = "ee0ed243352d04e5f78ba4d6d7fd9167121c0c956d8242e3627d118fed944a02"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "cow-mc/Cowlection"
+tag = "v1.8.9-0.16.1"

@@ -32024,7 +32024,7 @@ metafile = true
 
 [[files]]
 file = "mods/cowlection.pw.toml"
-hash = "f41a8baa98abf51353986913e3b03e0f84a07aa45763d107ede016db18c93b71"
+hash = "c678f25139657121faf755b2c63f73708ad8e38c7f32e195818972be416dbacd"
 metafile = true
 
 [[files]]
@@ -32054,7 +32054,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons.pw.toml"
-hash = "bdd6f2209abedd528bbeccb1b018f6b59e24d79cb8a9fc8fc31d10d882b37068"
+hash = "8ca7184a2868138d6d4785c995b1d55d0cbd31b57f1f5926893ea81920051849"
 metafile = true
 
 [[files]]
@@ -32064,5 +32064,5 @@ metafile = true
 
 [[files]]
 file = "mods/soopyv2forge.pw.toml"
-hash = "db2411918e6185b1739acb97c5556c570de9d430a9f33177a7c01ab7babd6128"
+hash = "d2961781edfd7e328c4e792266607b4d86ffdba61ea9394edd63bacde191ad2f"
 metafile = true
