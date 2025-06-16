@@ -1,13 +1,13 @@
 name = "Dungeons Guide"
-filename = "dungeonsguide-4.0.0-beta12.5-experimental11.1-standalone.jar"
+filename = "dungeonsguide-4.0.0-beta12.5-experimental11.2-standalone.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nU0bz6EH/versions/rnb0UNLH/dungeonsguide-4.0.0-beta12.5-experimental11.1-standalone.jar"
+url = "https://cdn.modrinth.com/data/nU0bz6EH/versions/Ihku6YTV/dungeonsguide-4.0.0-beta12.5-experimental11.2-standalone.jar"
 hash-format = "sha512"
-hash = "103c4b14d20d874388b96594309bb3782035238e65cae44583a1efe504b7a7087f639408ed1e5db9721b0a85136a227e8bf20e46da30ad139ced80f1e87c7a39"
+hash = "bc9612e6c12905de3f616daf69f809530edbc4e45cd8b3d89da1d0f01a8e78252a97afc3de9446115e3ea2b70998dceb18cc7dd90447abc1fe96c526f76df324"
 
 [update]
 [update.modrinth]
 mod-id = "nU0bz6EH"
-version = "rnb0UNLH"
+version = "Ihku6YTV"
