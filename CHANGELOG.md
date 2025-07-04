@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.4](https://github.com/mrkeww/all-skyblock/compare/v1.4.3...v1.4.4) (2025-07-04)
+
+
+### ⬆️ Mod Updates
+
+* updated dungeonguide to the newest version ([27b08da](https://github.com/mrkeww/all-skyblock/commit/27b08da6f462ddcda6f76d44227ec9301cdd0cd1))
+
 ## [1.4.3](https://github.com/mrkeww/all-skyblock/compare/v1.4.2...v1.4.3) (2025-06-16)
 
 
