@@ -1,12 +1,12 @@
 name = "All-Skyblock"
 author = "mrkeww"
-version = "1.4.3"
+version = "1.4.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a65fae2b1c2342dfdb4b7bafdcf8c644e71c478d3f4d947a2973dfa140e593c2"
+hash = "443e6d6079a0666d94dd3e0204986a743c424839d8c543a66dae69df752cf743"
 
 [versions]
 forge = "11.15.1.2318"
