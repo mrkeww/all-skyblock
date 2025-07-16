@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.5](https://github.com/mrkeww/all-skyblock/compare/v1.4.4...v1.4.5) (2025-07-16)
+
+
+### ⬆️ Mod Updates
+
+* dungeonsguide-4.0.0-beta13.0-standalone.jar -&gt; dungeonsguide-4.0.0-beta13.2-standalone.jar ([a47de13](https://github.com/mrkeww/all-skyblock/commit/a47de139fb08380453b682458518e2b75baad8f3))
+
 ## [1.4.4](https://github.com/mrkeww/all-skyblock/compare/v1.4.3...v1.4.4) (2025-07-04)
 
 
