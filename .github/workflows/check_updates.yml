@@ -1,0 +1,34 @@
+name: 'Check updates'
+on: 
+  workflow_dispatch
+
+
+jobs:
+  set-version:
+    runs-on: ubuntu-latest
+
+    name: Check updates
+
+    steps:
+      - name: Check Out Git Repository
+        uses: actions/checkout@v4
+        with:
+              fetch-depth: 0
+              ref: 'main'
+
+
+      - name: Setup go
+        uses: actions/setup-go@v5
+        
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Print go version
+        run: go version
+
+      - name: Build modpack using packwiz
+        run: |
+              packwiz refresh
+              packwiz update --all
+        shell: bash
+        working-directory: ./main
